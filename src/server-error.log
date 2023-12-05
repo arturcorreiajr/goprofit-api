@@ -1,0 +1,240 @@
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+/home/arturcorreiajunior/apps_nodejs/node_modules/.prisma/client/index.js:203
+  }) ?? alternativePaths[0]
+      ^
+
+SyntaxError: Unexpected token ?
+    at new Script (vm.js:74:7)
+    at createScript (vm.js:246:10)
+    at Object.runInThisContext (vm.js:298:10)
+    at Module._compile (internal/modules/cjs/loader.js:670:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:713:10)
+    at Module.load (internal/modules/cjs/loader.js:612:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:551:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:543:3)
+    at Module.require (internal/modules/cjs/loader.js:650:17)
+    at Module.Hook._require.Module.require (/opt/nvm/versions/node/v17.9.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)

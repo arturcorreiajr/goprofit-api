@@ -1,0 +1,61 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+// criar uma migration: yarn prisma migrate dev 
+model User {
+  id String @id @default(uuid())
+  name String
+  email String
+  password String
+  avatar String
+  color String
+
+  @@map("users")
+}
+
+model Broker {
+  id String @id @default(uuid())
+  name String
+  color String
+
+  @@map("brokers")
+}
+
+model Type1 {
+  id String @id @default(uuid())
+  name String
+
+  @@map("type1")
+}
+
+model Type2 {
+  id String @id @default(uuid())
+  id_type1 String
+  name String
+
+  @@map("type2")
+}
+
+model Investiment {
+  id String @id @default(uuid())
+  id_type2 String
+  id_broker String
+  name String
+  date String
+  due_date String
+  ammount Decimal
+  current_value Decimal
+  base_tax Decimal
+
+  @@map("investiment")
+}
+
