@@ -35,4 +35,4 @@ app.use((err: Error, req: Request, res: Response, next: NextFunction) => {
 
 })
 
-app.listen(21098, () => console.log(getTimeStamp()+' [INFO] - Server online!!!!'))
+app.listen(3333, () => console.log(getTimeStamp()+' [INFO] - Server online!!!!'))
